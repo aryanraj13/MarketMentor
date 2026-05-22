@@ -6,21 +6,27 @@ An AI-powered financial assistant that delivers real-time market insights throug
 
 ---
 
+![Project Screenshot](frontmarket.png)
+
 ## 🚀 Features
 
 - 🤖 AI-powered chatbot for financial queries
 - 🎙️ Voice-based query input using speech-to-text
+![Project Screenshot](1.png)
 - 📊 Real-time interactive stock charts with TradingView
 - 💹 Multi-asset market support
   - Stocks
   - Forex
   - Bonds
   - Cryptocurrencies
+  ![Project Screenshot](front1.png)
 - 🌗 Light/Dark theme support
 - ⚡ Fast AI inference with Groq API
 - 🧠 Context-aware financial responses with minimal latency
 
 ---
+
+![Project Screenshot](front4.png)
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +35,8 @@ An AI-powered financial assistant that delivers real-time market insights throug
 - Next.js
 - TypeScript
 - Tailwind CSS
+
+![Project Screenshot](front5.png)
 
 ### Backend
 - Groq API
